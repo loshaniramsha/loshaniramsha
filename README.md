@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-
-
-
 <h3 align="center">A passionate software engineering student eager to create innovative and practical solutions through code. I enjoy exploring new technologies and continuously learning in the world of software development.</h3>
 
 <p align="center">

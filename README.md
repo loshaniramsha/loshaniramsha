@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/loshaniramsha/loshaniramsha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</p>
-<p align="center">
   <a href="https://github.com/loshaniramsha">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+;Aspiring+Software+Engineer+;Exploring+new+technologies+every+day!;Always+learning+new+things!+;Coding+with+passion!+%F0%9F%98%8A" alt="Typing SVG" />
   </a>

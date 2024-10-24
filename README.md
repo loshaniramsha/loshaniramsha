@@ -1,11 +1,20 @@
 <h1 align="center">Hello👋 I'm Loshani Ramsha</h1>
 <h3 align="center">A passionate software engineering student with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loshaniramsha&label=Profile%20views&color=0e75b6&style=flat" alt="loshaniramsha" /> </p>
+
 - 🌱 I’m currently learning **Java**
+
+- 📫 How to reach me **loshanikottagoda@gmail.com**
+
+- ⚡ Fun fact **call me as lochi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://fb.com/loshani ramsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loshani ramsha" height="30" width="40" /></a>
+<a href="https://instagram.com/loshani ramsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loshani ramsha" height="30" width="40" /></a>
+<a href="https://medium.com/@loshaniramsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@loshaniramsha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

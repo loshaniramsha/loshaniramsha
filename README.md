@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/loshaniramsha" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[https://medium.com/@loshaniramsha](https://medium.com/@loshaniramsha01)" target="_blank">
+  <a href="[[https://medium.com/@loshaniramsha](https://medium.com/@loshaniramsha01)](https://medium.com/@loshaniramsha01)" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>

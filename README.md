@@ -1,4 +1,9 @@
-<h1 align="center">Hello 👋, I'm Loshani Ramsha</h1>
+<h1 align="center">
+  <a href="https://github.com/loshaniramsha">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Hello+%F0%9F%91%8B%2C+I'm+Loshani+Ramsha" alt="Typing Animation">
+  </a>
+</h1>
+
 <h3 align="center">A passionate software engineering student eager to create innovative and practical solutions through code. I enjoy exploring new technologies and continuously learning in the world of software development.</h3>
 
 <p align="center">

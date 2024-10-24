@@ -22,7 +22,7 @@
   <a href="https://www.facebook.com/loshaniramsha" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/loshaniramsha" target="_blank">
+  <a href="https://www.instagram.com/loshani_ramsha" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@loshaniramsha01" target="_blank">

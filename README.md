@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/loshaniramsha">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=008080&center=true&vCenter=true&width=400&lines=Hello+%F0%9F%91%8B%2C+I'm+Loshani+Ramsha" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Hello+%F0%9F%91%8B%2C+I'm+Loshani" alt="Typing Animation">
   </a>
 </h1>
+
 
 
 

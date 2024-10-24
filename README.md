@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋<b> I'm Loshani Ramsha</b>/h1>
+<h1 align="center">Hello👋I'm Loshani Ramshah1>
 <h3 align="center">A passionate software engineering student with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loshaniramsha&label=Profile%20views&color=0e75b6&style=flat" alt="loshaniramsha" /> </p>

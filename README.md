@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, React, and more**
 - 📫 Reach me at **loshanikottagoda@gmail.com**
-- - 📫 Reach me at potrfolio **[loshanikottagoda@gmail.com](https://loshaniramsha.vercel.app/)**
+- 📫 Reach me at potrfolio **[loshanikottagoda@gmail.com](https://loshaniramsha.vercel.app/)**
 - ⚡ Fun fact: **Call me Lochi!**
 
 <h3 align="center">Connect with me:</h3>
